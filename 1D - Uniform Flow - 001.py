@@ -1,5 +1,5 @@
 # 1D Uniform Flow Calculation
-#     in Compound Channel
+#     In Compound Channel
 #     Using Newton Method
 
 # Calculation of Water Level
@@ -7,7 +7,7 @@
 
 # Problem Statement
 # Compound Rectangular Channel
-# with same width of channel and floodplain
+# With same width of channel and floodplain
 # Channel water depth = Floodplain water depth + 2
 # Following are the channel data
 
